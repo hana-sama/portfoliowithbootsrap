@@ -1,0 +1,17 @@
+{
+  "name": "privateportfolio",
+  "version": "1.0.0",
+  "description": "Mizuxe",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Hana Seki",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
